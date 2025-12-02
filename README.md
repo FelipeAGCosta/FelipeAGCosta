@@ -45,9 +45,9 @@ Tenho experiência prática com e-commerce, APIs (Amazon/eBay), análise de dado
 
 ## 📂 Projetos em destaque
 
-- [catalogo-midias](https://github.com/FelipeAGCosta/catalogo-midias)) — Projeto acadêmico em Java Web: CRUD de mídias, filtros/ordenção/paginação, boas práticas (PreparedStatement, usuário de DB dedicado). Tech: Java, JSP/JSTL, JDBC, MySQL, Maven, Tomcat.
-- [RedesSociais](https://github.com/FelipeAGCosta/RedesSociais)) — Projeto simples de apresentação pessoal com minhas redes sociais.
-- [miner-ecom](https://github.com/FelipeAGCosta/miner-ecom)) — ## 🛒 MinerEcom – Minerador de produtos Amazon ↔ eBay (Em desenvolvimento: Projeto privado por enquanto)
+- ([catalogo-midias](https://github.com/FelipeAGCosta/catalogo-midias)) — Projeto acadêmico em Java Web: CRUD de mídias, filtros/ordenção/paginação, boas práticas (PreparedStatement, usuário de DB dedicado). Tech: Java, JSP/JSTL, JDBC, MySQL, Maven, Tomcat.
+- ([RedesSociais](https://github.com/FelipeAGCosta/RedesSociais)) — Projeto simples de apresentação pessoal com minhas redes sociais.
+- ([miner-ecom](https://github.com/FelipeAGCosta/miner-ecom)) — ## 🛒 MinerEcom – Minerador de produtos Amazon ↔ eBay (Em desenvolvimento: Projeto privado por enquanto)
 
 Aplicação web em **Python + Streamlit** para pesquisa e análise de oportunidades de arbitragem entre **eBay** e **Amazon.com**.  
 O usuário define filtros avançados (categoria, faixa de preço, condição, estoque mínimo, tipo de oferta na Amazon, vendas mensais estimadas etc.) e o sistema:
