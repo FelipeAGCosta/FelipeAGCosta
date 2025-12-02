@@ -43,5 +43,5 @@ Tenho experiência prática com e-commerce, APIs (Amazon/eBay), análise de dado
 
 ## 📫 Contato
 
-- LinkedIn: [Felipe Augusto]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/felipe-augusto-gonçalves-da-costa-236462183/)
+- LinkedIn: https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/felipe-augusto-gonçalves-da-costa-236462183/
 - E-mail: felipeagcosta@hotmail.com
